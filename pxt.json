@@ -3,7 +3,8 @@
   "description": "Erweiterungen für das Projekt 'Computermusik' der ZHdK und der PHZH",
   "dependencies": {},
   "files": [
-    "main.ts"
+    "main.ts", 
+    "README.md"
   ]
 }
 
